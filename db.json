@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Сделать одно",
+      "completed": true
+    },
+    {
+      "title": "Сделать другое",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "title": "третье",
+      "id": 3,
+      "completed": false
+    },
+    {
+      "title": "test",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
